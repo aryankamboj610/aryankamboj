@@ -1,5 +1,5 @@
 # aryankamboj
-<img align="right" alt="Coding" width="900" height="300" src="https://wallpaperaccess.com/full/7167569.png">
+<!-- <img align="right" alt="Coding" width="900" height="300" src="https://wallpaperaccess.com/full/7167569.png"> -->
 <h1 align="center">Hi 👋, I'm Aryan Kamboj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/7167569.png"> -->

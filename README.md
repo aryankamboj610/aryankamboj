@@ -1,8 +1,8 @@
 # aryankamboj
-
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/7167569.png">
 <h1 align="center">Hi 👋, I'm Aryan Kamboj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/7167569.png">
+<!-- <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/7167569.png"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankamboj610&label=Profile%20views&color=0e75b6&style=flat" alt="aryankamboj610" /> </p>
 
